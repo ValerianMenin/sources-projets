@@ -1,0 +1,59 @@
+/home/user/Desktop/genielog/genilog/main.c:119: warning: argument 'int' of command @param is not found in the argument list of afficherAlignementSeqAB(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB, int *indiceBpourBprime)
+/home/user/Desktop/genielog/genilog/main.c:119: warning: argument 'int' of command @param is not found in the argument list of afficherAlignementSeqAB(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB, int *indiceBpourBprime)
+/home/user/Desktop/genielog/genilog/main.c:119: warning: argument 'int' of command @param is not found in the argument list of afficherAlignementSeqAB(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB, int *indiceBpourBprime)
+/home/user/Desktop/genielog/genilog/main.c:119: warning: argument 'int' of command @param is not found in the argument list of afficherAlignementSeqAB(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB, int *indiceBpourBprime)
+/home/user/Desktop/genielog/genilog/main.c:119: warning: The following parameters of afficherAlignementSeqAB(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB, int *indiceBpourBprime) are not documented:
+  parameter 'sequenceA'
+  parameter 'sequenceB'
+  parameter 'tailleSeqA'
+  parameter 'tailleSeqB'
+  parameter 'indiceBpourBprime'
+/home/user/Desktop/genielog/genilog/main.c:67: warning: argument 'int' of command @param is not found in the argument list of afficherTab2DEntier(int **tab, int tailleX, int tailleY, int nbChiffreMax)
+/home/user/Desktop/genielog/genilog/main.c:67: warning: argument 'int' of command @param is not found in the argument list of afficherTab2DEntier(int **tab, int tailleX, int tailleY, int nbChiffreMax)
+/home/user/Desktop/genielog/genilog/main.c:67: warning: argument 'int' of command @param is not found in the argument list of afficherTab2DEntier(int **tab, int tailleX, int tailleY, int nbChiffreMax)
+/home/user/Desktop/genielog/genilog/main.c:67: warning: argument 'int' of command @param is not found in the argument list of afficherTab2DEntier(int **tab, int tailleX, int tailleY, int nbChiffreMax)
+/home/user/Desktop/genielog/genilog/main.c:67: warning: The following parameters of afficherTab2DEntier(int **tab, int tailleX, int tailleY, int nbChiffreMax) are not documented:
+  parameter 'tab'
+  parameter 'tailleX'
+  parameter 'tailleY'
+  parameter 'nbChiffreMax'
+/home/user/Desktop/genielog/genilog/main.c:53: warning: argument 'int' of command @param is not found in the argument list of afficherTabEntier(int *table, int tableLength)
+/home/user/Desktop/genielog/genilog/main.c:53: warning: argument 'int' of command @param is not found in the argument list of afficherTabEntier(int *table, int tableLength)
+/home/user/Desktop/genielog/genilog/main.c:53: warning: The following parameters of afficherTabEntier(int *table, int tableLength) are not documented:
+  parameter 'table'
+  parameter 'tableLength'
+/home/user/Desktop/genielog/genilog/main.c:37: warning: argument 'int' of command @param is not found in the argument list of freeTab2D(int **table, int tableLength)
+/home/user/Desktop/genielog/genilog/main.c:37: warning: argument 'int' of command @param is not found in the argument list of freeTab2D(int **table, int tableLength)
+/home/user/Desktop/genielog/genilog/main.c:37: warning: The following parameters of freeTab2D(int **table, int tableLength) are not documented:
+  parameter 'table'
+  parameter 'tableLength'
+/home/user/Desktop/genielog/genilog/main.c:93: warning: argument 'int' of command @param is not found in the argument list of matriceDiff(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:93: warning: argument 'int' of command @param is not found in the argument list of matriceDiff(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:93: warning: argument 'int' of command @param is not found in the argument list of matriceDiff(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:93: warning: argument 'int' of command @param is not found in the argument list of matriceDiff(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:93: warning: The following parameters of matriceDiff(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB) are not documented:
+  parameter 'sequenceA'
+  parameter 'sequenceB'
+  parameter 'tailleSeqA'
+  parameter 'tailleSeqB'
+/home/user/Desktop/genielog/genilog/main.c:162: warning: argument 'int' of command @param is not found in the argument list of MVM(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:162: warning: argument 'int' of command @param is not found in the argument list of MVM(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:162: warning: argument 'int' of command @param is not found in the argument list of MVM(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:162: warning: argument 'int' of command @param is not found in the argument list of MVM(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:162: warning: The following parameters of MVM(int *sequenceA, int *sequenceB, int tailleSeqA, int tailleSeqB) are not documented:
+  parameter 'sequenceA'
+  parameter 'sequenceB'
+  parameter 'tailleSeqA'
+  parameter 'tailleSeqB'
+/home/user/Desktop/genielog/genilog/main.c:287: warning: argument 'int' of command @param is not found in the argument list of saisieSequence(int *tailleSequence)
+/home/user/Desktop/genielog/genilog/main.c:287: warning: The following parameters of saisieSequence(int *tailleSequence) are not documented:
+  parameter 'tailleSequence'
+/home/user/Desktop/genielog/genilog/main.c:334: warning: argument 'int' of command @param is not found in the argument list of saisieSequenceABmvm(int **sequenceA, int **sequenceB, int *tailleSeqA, int *tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:334: warning: argument 'int' of command @param is not found in the argument list of saisieSequenceABmvm(int **sequenceA, int **sequenceB, int *tailleSeqA, int *tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:334: warning: argument 'int' of command @param is not found in the argument list of saisieSequenceABmvm(int **sequenceA, int **sequenceB, int *tailleSeqA, int *tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:334: warning: argument 'int' of command @param is not found in the argument list of saisieSequenceABmvm(int **sequenceA, int **sequenceB, int *tailleSeqA, int *tailleSeqB)
+/home/user/Desktop/genielog/genilog/main.c:334: warning: The following parameters of saisieSequenceABmvm(int **sequenceA, int **sequenceB, int *tailleSeqA, int *tailleSeqB) are not documented:
+  parameter 'sequenceA'
+  parameter 'sequenceB'
+  parameter 'tailleSeqA'
+  parameter 'tailleSeqB'
