@@ -1,0 +1,22 @@
+somme = fichier1+fichier2+fichier3+fichier4+fichier5+fichier6
+somme =[
+  - 1.68    67.     15.9  
+  - 36.5    0.11    28.   
+    42.     86.     28.9  
+]
+
+
+sommeSoustraite = fichier1-fichier2+fichier3-fichier4+fichier5-fichier6
+sommeSoustraite=[
+    39.28  - 37.      9.3  
+  - 39.5   - 13.89    20.  
+    12.      76.      9.1 
+]
+
+
+produit = fichier1*fichier2*fichier3*fichier4*fichier5*fichier6
+produit=[ 
+  - 3383759.5  - 267271.45    348109.26  
+  - 2509908.1  - 199763.87    263110.26  
+  - 4048345.8  - 318942.68    413521.51  
+]

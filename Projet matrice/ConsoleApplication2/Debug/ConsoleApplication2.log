@@ -1,0 +1,15 @@
+﻿La génération a démarré 08/04/2015 16:15:23.
+     1>Projet "D:\Documents\Valerian\Cours\S6\C++\ProjetMatrice\ConsoleApplication2\ConsoleApplication2.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ProjetVM.PJ.Matrice.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\documents\valerian\cours\s6\c++\projetmatrice\consoleapplication2\main.cpp(1): warning C4627: '#include "CMatrice.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>d:\documents\valerian\cours\s6\c++\projetmatrice\consoleapplication2\main.cpp(2): warning C4627: '#include "Cexception.h"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>d:\documents\valerian\cours\s6\c++\projetmatrice\consoleapplication2\main.cpp(20): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+     1>Génération du projet "D:\Documents\Valerian\Cours\S6\C++\ProjetMatrice\ConsoleApplication2\ConsoleApplication2.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.39

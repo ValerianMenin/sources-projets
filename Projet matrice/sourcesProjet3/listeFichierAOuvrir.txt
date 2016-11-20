@@ -1,0 +1,6 @@
+fichier1.txt
+fichier2.txt
+fichier3.txt
+fichier4.txt
+fichier5.txt
+fichier6.txt
