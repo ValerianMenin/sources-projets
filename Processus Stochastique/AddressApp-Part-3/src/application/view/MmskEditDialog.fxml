@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="270.0" prefWidth="550.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.view.MmskEditDialogController">
+   <children>
+      <BorderPane prefHeight="270.0" prefWidth="550.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+            <GridPane BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="218.0" minWidth="10.0" prefWidth="111.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="316.0" minWidth="10.0" prefWidth="261.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints />
+              </rowConstraints>
+               <children>
+                  <Label text="Processus d'arrivé" />
+                  <Label text="Processus de service" GridPane.rowIndex="1" />
+                  <Label text="Nombre de service(s)" GridPane.rowIndex="2" />
+                  <Label text="max clients par service" GridPane.rowIndex="3" />
+                  <Label text="nombre de clients potentiel" GridPane.rowIndex="4" />
+                  <Label text="règle de passage" GridPane.rowIndex="5" />
+                  <TextField fx:id="processusArrive" GridPane.columnIndex="1" />
+                  <TextField fx:id="processusService" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <TextField fx:id="nombreService" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <TextField fx:id="borneSupClientSysteme" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <TextField fx:id="nbClientsPotentiel" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <TextField fx:id="reglePassage" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+               </children>
+            </GridPane>
+         </center>
+         <bottom>
+            <GridPane BorderPane.alignment="CENTER">
+              <columnConstraints>
+                  <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="800.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="177.0" minWidth="10.0" prefWidth="60.0" />
+                <ColumnConstraints halignment="LEFT" hgrow="SOMETIMES" minWidth="10.0" prefWidth="800.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="okBtn" contentDisplay="CENTER" mnemonicParsing="false" onAction="#handleOk" text="OK" textAlignment="CENTER" />
+                <Button fx:id="cancelBtn" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#handleCancel" text="Cancel" textAlignment="CENTER" GridPane.columnIndex="2" />
+                  <Pane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" />
+               </children>
+            </GridPane>
+         </bottom>
+      </BorderPane>
+   </children>
+</AnchorPane>
