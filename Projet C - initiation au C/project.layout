@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\CustomerRecordUnit.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3735" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="src\DocumentEditor.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2324" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="src\Print.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="847" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="src\DocumentUtil.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2257" topLine="170" />
+		</Cursor>
+	</File>
+	<File name="src\CustomerRecordEditor.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="217" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Catalog.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3357" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="src\EncryptDecrypt.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2306" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="include\CustomerRecord.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5464" topLine="116" />
+		</Cursor>
+	</File>
+	<File name="src\Document.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1633" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="src\OperatorTableUnit.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3314" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="src\Customer.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="756" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MyStringUnit.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2404" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="include\CatalogDB.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4004" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\CatalogRecordUnit.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4069" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="include\Dictionary.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1473" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\DocumentUnit.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="include\UnitTest.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="877" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="src\CustomerDB.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3627" topLine="98" />
+		</Cursor>
+	</File>
+	<File name="src\Dictionary.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4796" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="src\Operator.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="src\CatalogDB.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2660" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="src\OperatorTable.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5647" topLine="199" />
+		</Cursor>
+	</File>
+	<File name="src\CatalogRecordEditor.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3406" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="src\PrintFormat.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1018" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\MyString.h" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7294" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="src\DocumentRowList.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8945" topLine="303" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="598" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\OperatorTable.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="874" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="src\DocumentUtilUnit.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1214" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="src\MyString.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1579" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="src\Bill.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2221" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="src\CatalogRecord.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15393" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\CustomerRecord.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="864" topLine="6" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
